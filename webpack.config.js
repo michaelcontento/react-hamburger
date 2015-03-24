@@ -17,8 +17,8 @@ var config = {
     entry: __dirname + '/index.js',
 
     output: {
-        path: __dirname + '/build/',
-        filename: 'index.js',
+        path: __dirname + '',
+        filename: 'index.build.js',
         library: 'react-router',
         libraryTarget: 'umd'
     },
