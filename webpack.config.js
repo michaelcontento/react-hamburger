@@ -40,6 +40,7 @@ var config = {
     externals: [
         {
             "react/addons": true,
+            "react/lib/Object.assign": true,
             "react-router": true
         }
     ],
