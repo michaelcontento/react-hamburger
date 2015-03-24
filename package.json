@@ -1,0 +1,14 @@
+{
+  "name": "react-hamburger",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.i.silvertours.net:bookingengine/iframeconnect.git"
+  }
+}
