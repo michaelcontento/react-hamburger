@@ -39,7 +39,7 @@ var config = {
 
     externals: [
         {
-            "react": true,
+            "react/addons": true,
             "react-router": true
         }
     ],
